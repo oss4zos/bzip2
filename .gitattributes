@@ -2,4 +2,4 @@
 * git-encoding=iso8859-1 zos-working-tree-encoding=ibm-1047
 
 sample.* git-encoding=BINARY zos-working-tree-encoding=BINARY
-
+manual.pdf git-encoding=BINARY zos-working-tree-encoding=BINARY
